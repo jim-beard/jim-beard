@@ -75,4 +75,4 @@ When I'm not working on IAM solutions, I enjoy an eclectic mix of hobbies includ
 
 ---
 
-*Building secure, scalable identity solutions for higher education since 2000.*
+*Building secure, scalable identity solutions for higher education since 2006.*
